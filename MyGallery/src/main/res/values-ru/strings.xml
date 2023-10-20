@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyGallery</string>
+    <string name="settings">настройки</string>
+    <string name="empty">empty</string>
+    <string name="server_address">адрес сервера</string>
+    <string name="server_user">пользователь</string>
+    <string name="server_pass">пароль</string>
+    <string name="server_domain">домен</string>
+    <string name="server_share">общая папка</string>
+    <string name="img_path">путь к фото</string>
+    <string name="show_delay">задержка показа</string>
+    <string name="show_filename">показывать путь</string>
+    <string name="show_clock">показывать часы</string>
+    <string name="clock_format">формат часов</string>
+    <string name="stretch_image">растянуть фото</string>
+    <string name="help">\n
+        формат часов:\n
+        "    " dd - день месяца\n
+        "    " MM - месяц\n
+        "    " yyyy - год\n
+        "    " HH - часы\n
+        "    " mm - минуты\n
+        "    " ss - секунды\n
+        \n
+        навигация:\n
+        "    " кнопка влево - предыдущее фото\n
+        "    " кнопка вправо - следующее фото\n
+        "    " кнопка центр - пауза\n
+        \n
+    </string>
+
+</resources>

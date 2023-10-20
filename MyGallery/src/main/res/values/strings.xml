@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyGallery</string>
+    <string name="empty">empty</string>
+    <string name="settings">settings</string>
+    <string name="server_address">server address</string>
+    <string name="server_user">user</string>
+    <string name="server_pass">password</string>
+    <string name="server_domain">domain</string>
+    <string name="server_share">share name</string>
+    <string name="img_path">images path</string>
+    <string name="show_delay">show delay (s)</string>
+    <string name="show_filename">show filename</string>
+    <string name="show_clock">show clock</string>
+    <string name="clock_format">clock format</string>
+    <string name="stretch_image">stretch image</string>
+    <string name="help">\n
+        clock format:\n
+        "    " dd - day of month\n
+        "    " MM - month\n
+        "    " yyyy - year\n
+        "    " HH - hours\n
+        "    " mm - minutes\n
+        "    " ss - seconds\n
+        \n
+        navigation:\n
+        "    " button left - previous picture\n
+        "    " button right - next picture\n
+        "    " button center - pause\n
+        \n
+    </string>
+</resources>
